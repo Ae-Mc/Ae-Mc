@@ -27,6 +27,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ae-Mc)
 ![MySQL](https://img.shields.io/badge/mysql-%23000f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+[![Jira](https://img.shields.io/badge/jira-blue?style=for-the-badge&logo=jira)](https://www.atlassian.com/ru/software/jira)
 
 ## Github stats
 
