@@ -2,10 +2,10 @@
 
 ## My projects
 
-[![ЕСАП Mobile App](https://img.shields.io/endpoint?color=375790&logo=google-play&style=flat-square&url=https%3A%2F%2Fplayshields.herokuapp.com%2Fplay%3Fi%3Dru.ae_mc.esap%26l%3D%24name%26m%3D%24version)](https://play.google.com/store/apps/details?id=ru.ae_mc.esap)
+[![ЕСАП Mobile App](https://img.shields.io/endpoint?color=375790&logo=google-play&style=flat-square&url=https%3A%2F%2Fplay.cuzi.workers.dev%2Fplay%3Fi%3Dru.ae_mc.esap%26l%3D%25D0%259F%25D1%2580%25D0%25BE%25D0%25B1%25D0%25BB%25D0%25B5%25D0%25BC%25D1%258B%2520%25D0%25A0%25D0%25BE%25D1%2581%25D1%2581%25D0%25B8%25D0%25B8%2520%257C%2520%25D0%2595%25D0%25A1%25D0%2590%25D0%259F%26m%3D%24version)](https://play.google.com/store/apps/details?id=ru.ae_mc.esap)
 
 [![ITMO Climbing Mobile App](https://img.shields.io/badge/ITMO%20Climbing-375790.svg?logo=GitHub&style=flat-square)](https://play.google.com/store/apps/details?id=ru.aemc.itmo_climbing)
-[![ITMO Climbing Mobile App](https://img.shields.io/endpoint?color=375790&logo=google-play&style=flat-square&url=https%3A%2F%2Fplayshields.herokuapp.com%2Fplay%3Fi%3Dru.aemc.itmo_climbing%26l%3D%24name%26m%3D%24version)](https://play.google.com/store/apps/details?id=ru.aemc.itmo_climbing)
+[![ITMO Climbing Mobile App](https://img.shields.io/endpoint?color=375790&logo=google-play&style=flat-square&url=https%3A%2F%2Fplay.cuzi.workers.dev%2Fplay%3Fi%3Dru.aemc.itmo_climbing%26l%3DITMO%2520Climbing%26m%3D%24version)](https://play.google.com/store/apps/details?id=ru.aemc.itmo_climbing)
 
 [![FB2 Creator Python Library](https://img.shields.io/badge/FB2%20Creator%20Python%20Library-375790?logo=GitHub&style=flat-square)](https://github.com/Ae-Mc/FB2) [![PyPI](https://img.shields.io/pypi/v/FB2?color=orange&style=flat-square)](https://pypi.org/project/FB2/)
 
