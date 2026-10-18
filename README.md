@@ -24,12 +24,11 @@
 ![MaterialUI](https://img.shields.io/badge/materialui-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white)
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev)
 
-[![Notion](https://img.shields.io/badge/Notion-e0e0e0.svg?&style=for-the-badge&logo=notion&logoColor=black)](https://notion.so)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/VSCode-0078d7.svg?logo=visualstudiocode&style=for-the-badge&logoColor=white)](https://vscode.dev)
 [![NeoVim](https://img.shields.io/badge/NEOVIM-blue.svg?&style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io)
-![IntellijIDEA](https://img.shields.io/badge/IntelliJIDEA-e0e0e0.svg?&style=for-the-badge&logo=intellij-idea&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 [![GitHub](https://img.shields.io/badge/github-24292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ae-Mc)
-![MySQL](https://img.shields.io/badge/mysql-e0e0e0.svg?&style=for-the-badge&logo=mysql&logoColor=375790&textColor=375790)
+![PostgreSQL](https://img.shields.io/badge/postgresql-e0e0e0.svg?&style=for-the-badge&logo=postgresql&logoColor=375790&textColor=375790)
 [![Jira](https://img.shields.io/badge/jira-blue?style=for-the-badge&logo=jira)](https://www.atlassian.com/ru/software/jira)
 
 ## Github stats
